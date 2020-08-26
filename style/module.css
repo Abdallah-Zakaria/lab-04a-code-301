@@ -1,0 +1,35 @@
+div {
+    text-align: center;
+    border: black solid 1px;
+    box-sizing: border-box;
+    font-size: larger;
+    vertical-align: text-bottom;
+}
+
+#a {
+    background-color: red;
+}
+#b {
+    background-color: orange;
+}
+#c {
+    background-color: yellow;
+}
+#d {
+    background-color: green;
+}
+#e {
+    background-color: cyan;
+}
+#f {
+    background-color: blue;
+}
+#g {
+    background-color: purple;
+}
+#h {
+    background-color: pink;
+}
+#i {
+    background-color: brown;
+}
